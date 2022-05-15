@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="./" name="cbr250"/>
+
+    <default remote="cbr250" revision="master"/>
+
+    <!-- Proprietary Licensed (10 packages) -->
+    <project path="PrusaI3_from_0_to_1" name="PrusaI3_from_0_to_1" />
+</manifest>
